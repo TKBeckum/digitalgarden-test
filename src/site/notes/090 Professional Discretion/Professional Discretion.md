@@ -4,4 +4,4 @@
 
 # [[090 Professional Discretion/Professional Discretion\|Professional Discretion]]
 
-Soon [[090 Professional Discretion/More information\|More information]] will be published here.
+Soon [[090 Professional Discretion/More information\|more information]] will be published here.
