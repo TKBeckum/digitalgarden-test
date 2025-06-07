@@ -22,12 +22,6 @@ What about artists? Intuition is important for artists as well, but most importa
 In much literature about professionals a distinction is made between traditional or ‘real’ professionals and ‘semi-professionals’ or ‘aspiring professionals’. The real professionals are considered the ‘free’ (in the sense of self-employed) or ‘learned’ professionals, like doctors and lawyers. These professionals have a long tradition, and in many societies also have a high status. In a following blog post we will see that they deal with very important aspects of life: health, ownership, and freedom. The (so-called) semi- or aspiring professionals are rather new kind of jobs that deal with less important aspects of life (at least, according to ‘society’), and generally have not a high status.
 
 Later on it will become clear that the distinction between ‘real’ and ‘semi- or aspiring’ professionals is not one I will use in this blog book. But I will distinguish between two groups of professionals: professionals that belong to an organised profession that influences the work of professionals, and other professionals. This distinction comes close to the above, but not exactly.
-
-### Annotations
-
-### Related
-
-### References
 #### Footnotes
 
 [^1]: [Cambridge Dictionary](http://dictionary.cambridge.org/dictionary/british/professional)
