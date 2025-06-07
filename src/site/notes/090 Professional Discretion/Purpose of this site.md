@@ -3,6 +3,7 @@
 ---
 
 # Purpose of this site
+*This is a work in progress! New material and updates will be published in the coming time.*
 
 This site is an attempt to analyse the changing and more and more complex situation in which present day professionals try to do their work. But first we have to answer some questions. What are professionals? What makes a professional, and are all professionals more or less the same? In order to find answers, it is necessary to look into what the literature on professionals have to offer with respect to the theoretical views on the phenomenon of professionals. Also it is necessary to look in what circumstances professionals do their work.
 
