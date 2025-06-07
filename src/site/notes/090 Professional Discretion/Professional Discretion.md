@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/090-professional-discretion/professional-discretion/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/090-professional-discretion/professional-discretion/"}
 ---
 
 # [[090 Professional Discretion/Professional Discretion\|Professional Discretion]]
