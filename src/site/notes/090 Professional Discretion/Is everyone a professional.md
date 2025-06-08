@@ -3,9 +3,9 @@
 ---
 
 # Is everyone a professional?
-Who is a professional and who is not? In many dictionaries it says that a professional is someone who does a job for a living, compared to an ‘amateur’ who does it just for fun. So we have professional football players, golfers, magicians, and so on. In this sense everyone with a paid job is a professional. But that is not the kind of professionals this blog book will be about. So in dictionaries ‘professional’ also is described as “a person who has the type of job that needs a high level of education and training”[^1]
+Who is a professional and who is not? In many dictionaries it says that a professional is someone who does a job for a living, compared to an ‘amateur’ who does it just for fun. So we have professional football players, golfers, magicians, and so on. In this sense everyone with a paid job is a professional. But that is not the kind of professionals this site will be about. So in dictionaries ‘professional’ also is described as “a person who has the type of job that needs a high level of education and training”[^1]
 
-In a following blog posts I will discuss more precisely what makes a professional, but for the moment we could describe a professional as someone with a lot of knowledge and expertise who delivers services to clients (individuals or organisations), like a doctor, a lawyer, or an engineer.
+In a following contributions I will discuss more precisely what makes a professional, but for the moment we could describe a professional as someone with a lot of knowledge and expertise who delivers services to clients (individuals or organisations), like a doctor, a lawyer, or an engineer.
 
 ### Professionals, experts and technicians
 
@@ -21,7 +21,7 @@ What about artists? Intuition is important for artists as well, but most importa
 
 In much literature about professionals a distinction is made between traditional or ‘real’ professionals and ‘semi-professionals’ or ‘aspiring professionals’. The real professionals are considered the ‘free’ (in the sense of self-employed) or ‘learned’ professionals, like doctors and lawyers. These professionals have a long tradition, and in many societies also have a high status. In a following blog post we will see that they deal with very important aspects of life: health, ownership, and freedom. The (so-called) semi- or aspiring professionals are rather new kind of jobs that deal with less important aspects of life (at least, according to ‘society’), and generally have not a high status.
 
-Later on it will become clear that the distinction between ‘real’ and ‘semi- or aspiring’ professionals is not one I will use in this blog book. But I will distinguish between two groups of professionals: professionals that belong to an organised profession that influences the work of professionals, and other professionals. This distinction comes close to the above, but not exactly.
+Later on it will become clear that the distinction between ‘real’ and ‘semi- or aspiring’ professionals is not one I will use in this site. But I will distinguish between two groups of professionals: professionals that belong to an organised profession that influences the work of professionals, and other professionals. This distinction comes close to the above, but not exactly.
 #### Footnotes
 
 [^1]: [Cambridge Dictionary](http://dictionary.cambridge.org/dictionary/british/professional)
