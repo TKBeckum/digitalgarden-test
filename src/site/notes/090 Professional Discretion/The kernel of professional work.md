@@ -22,9 +22,7 @@ Based on the above, an circumscription of discretion could be:
 
 The freedom for [[050 Inbox/Discretion is granted\|discretion is granted]] by the client (at least implicitly), and sometimes is legitimated by 'official' others (which helps to trust the expert).
 Discretion is based on the unpredictability or indeterminacy of the ‘best’ way to provide the service or solve the problem. This unpredictability is a consequence of three types of uncertainty: incomplete theories, imprecise measurement of relevant characteristics of the client or her/his situation, and uncertainty due to other factors beyond the scope or domain of the profession. Unpredictability calls for special knowledge and skills based on abstract theories and concepts and training-based and experience-based intuition. Especially important here is that the expert always has to judge whether standard actions (like protocols) can be used, or whether the specific constellation of the problem and circumstances of the client (-system) asks for another action. Noordegraaf calls this work therefor ‘inferential’ and ‘experiential’ (2005, pp. 4–5). So unpredictability, knowledge and especially discretion are the elements that play a central role in expert work.
-
+#### Footnotes
 [^2]: Jamous and Peloille (1970) indicate this uncertainty with a ratio between indeterminacy (I) and technicality (T; their word for the knowledge that is available). The more indeterminacy (higher I/T ratio) the more uncertainty.
-
 [^3]: Again, I use 'expert' which includes 'professional'. See [[091 Nog te bewerken/The difference between expert and professional work\|The difference between expert and professional work]]
-
 [^4]: Champy (2018, p. 4) uses the expressions 'prudentiality' and 'practical wisdom' as synonyms for this, but I prefer 'trained intuition'or 'educated guesses' because this stresses the scientific base and training.
